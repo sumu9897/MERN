@@ -1,6 +1,13 @@
 // JavaScript Strict Mode
+"use strict"
+x=3.14
+console.log(x);
 
-console.log("Hello World!");
+// console.log("Hello World!");
+
+
+
+
 
 
 
