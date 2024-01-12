@@ -16,7 +16,7 @@ console.log(a);*/
 //Arrow Functions
 
 function MyFun(){
-    return "Hello World";
+    return a+b;
 }
 
 
