@@ -19,5 +19,8 @@ function MyFun(){
     return a+b;
 }
 
+const MyFunArrow=(a,b)=>a+b
+
+console.log(MyFunArrow(3,4))
 
 
