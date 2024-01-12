@@ -9,8 +9,15 @@ console.log(x);*/
 
 //let and const for Variable Declaration
 
-let a=10;
+/*let a=10;
 a=20;
-console.log(a);
+console.log(a);*/
+
+//Arrow Functions
+
+function MyFun(){
+    return "Hello World";
+}
+
 
 
