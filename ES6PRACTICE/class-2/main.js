@@ -7,3 +7,5 @@ let laptop={
         console.log(total-used);
     }
 }
+
+laptop.freeStorage(512,170);
