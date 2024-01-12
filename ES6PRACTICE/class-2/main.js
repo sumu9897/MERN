@@ -1,3 +1,5 @@
+// What is object & how works.
+
 /*
 let laptop={
     brand:"Mac",
@@ -12,7 +14,7 @@ let laptop={
 laptop.freeStorage(512,170);
 */
 
-
+//What is object blueprint(CLASS) & how works.
 class laptop{
 
     brand="Apple"
