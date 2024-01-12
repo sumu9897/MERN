@@ -15,12 +15,16 @@ console.log(a);*/
 
 //Arrow Functions
 
-function MyFun(){
+/*function MyFun(){
     return a+b;
 }
 
 const MyFunArrow=(a,b)=>a+b
 
-console.log(MyFunArrow(3,4))
+console.log(MyFunArrow(3,4))*/
+
+
+//Template Literals
+
 
 
