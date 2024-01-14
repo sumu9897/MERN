@@ -67,6 +67,7 @@ const person={
 
 const {name,age,city} =person;
 console.log(city);
+console.log(age+10);
 
 
 
