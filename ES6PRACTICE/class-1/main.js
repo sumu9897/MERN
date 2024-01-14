@@ -56,6 +56,9 @@ console.log(MySelf)
 // const [a,b,c]=arr
 // console.log(a+b);
 
+
+//Object Destructuring
+
 const person={
     name:'Jhon',
     age:24,
