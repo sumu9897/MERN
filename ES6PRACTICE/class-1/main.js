@@ -101,10 +101,10 @@ console.log(parent['mother']); // Third Party Object Fatching...
 
 //Default,Optional Parameters
 
-function addTwo(a,b){
+function addTwo(a,b=2){
     console.log(a+b);
 }
-addTwo(10,12)
+addTwo(10)
 
 
 
