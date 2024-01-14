@@ -101,6 +101,7 @@ console.log(parent['mother']); // Third Party Object Fatching...
 
 //Default,Optional Parameters
 
+/*
 function addTwo(a,b=2){
     console.log(a+b);
 }
@@ -111,13 +112,19 @@ addTwo(10)
 
 
 
+*/
 
 
 
 
 
+//Rest Parameters
 
 
+function sumAll(...numbers){
+    console.log(numbers[2]+numbers[3]);
+}
+sumAll(1,2,3,4)
 
 
 
