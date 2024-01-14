@@ -74,7 +74,7 @@ console.log(age+10);
 //Nested Destructuring
 
 
-
+/*
 const user={
     name:"Bob",
     age:30,
@@ -89,3 +89,53 @@ const {name,age,parent}=user;
 console.log(parent.father); //Object Inside The Code
 
 console.log(parent['mother']); // Third Party Object Fatching...
+
+
+
+
+*/
+
+
+
+
+
+//Default,Optional Parameters
+
+function addTwo(a,b){
+    console.log(a+b);
+}
+addTwo(10,12)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
