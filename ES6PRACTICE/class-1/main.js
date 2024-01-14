@@ -31,5 +31,12 @@ console.log(MyFunArrow(3,4))*/
 
 //Template Literals
 
+let MyAge=33;
+// let MySelf ="My Age is "+MyAge;
+// console.log(MySelf)
+
+
+let MySelf = `My Age is ${MyAge}`
+console.log(MySelf)
 
 
