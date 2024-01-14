@@ -59,7 +59,7 @@ console.log(MySelf)
 
 //Object Destructuring
 
-const person={
+/*const person={
     name:'Jhon',
     age:24,
     city:"Dhaka"
@@ -69,5 +69,21 @@ const {name,age,city} =person;
 console.log(city);
 console.log(age+10);
 
+*/
+
+//Nested Destructuring
 
 
+
+const user={
+    name:"Bob",
+    age:30,
+    parent:{
+        father:"Jack",
+        mother:"Rose"
+    }
+}
+
+
+const {name,age,parent:{father,mother}}=user;
+console.log(user.father);
