@@ -62,5 +62,8 @@ const person={
     city:"Dhaka"
 }
 
+const {name,age,city} =person;
+console.log(city);
+
 
 
