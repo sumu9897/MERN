@@ -85,5 +85,5 @@ const user={
 }
 
 
-const {name,age,parent:{father,mother}}=user;
+const {name,age,parent}=user;
 console.log(parent);
