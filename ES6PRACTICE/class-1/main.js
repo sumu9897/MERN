@@ -86,4 +86,4 @@ const user={
 
 
 const {name,age,parent:{father,mother}}=user;
-console.log(user.father);
+console.log(parent);
