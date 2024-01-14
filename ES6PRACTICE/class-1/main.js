@@ -86,4 +86,6 @@ const user={
 
 
 const {name,age,parent}=user;
-console.log(parent.father);
+console.log(parent.father); //Object Inside The Code
+
+console.log(parent['mother']); // Third Party Object Fatching...
