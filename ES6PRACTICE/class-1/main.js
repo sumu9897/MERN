@@ -13,9 +13,14 @@ console.log(x);*/
 a=20;
 console.log(a);*/
 
+
+
+
+
+
 //Arrow Functions
 
-/*function MyFun(){
+/*function MyFun(a,b){
     return a+b;
 }
 
